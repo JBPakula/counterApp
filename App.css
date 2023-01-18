@@ -1,0 +1,10 @@
+body {
+  background: lightsteelblue;
+  display: flex; 
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
+  font-size: 30px;
+  font-weight: bold;
+  color: rgb(51, 53, 54);
+}
